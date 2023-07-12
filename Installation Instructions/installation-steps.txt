@@ -1,0 +1,11 @@
+Installation Steps
+================
+
+Database Configuration:
+==================
+1. Open phpmyadmin
+2. Create New Database named "news-project".
+3. Import database tables in newly created database "news-project" from downloaded folder -> Installation Instructions -> news-project.sql.
+
+
+
